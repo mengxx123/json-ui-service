@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "koa": "^2.11.0"
+    "canvas": "^2.6.1",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^8.0.8",
+    "uuid": "^7.0.2"
   }
 }
